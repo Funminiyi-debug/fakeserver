@@ -1,0 +1,53 @@
+{
+  "movies": [
+    {
+      "title": "Deadly Fight",
+      "views": "10M",
+      "genre": "Action",
+      "image": "/img/deadly_fight.jpg",
+      "duration": "00:56:00"
+    },
+    {
+      "title": "Jumanji",
+      "views": "3M",
+      "image": "/img/jumanji.jpg",
+      "genre": "adventure",
+      "duration": "01:05:00"
+    },
+    {
+      "title": "Siberia",
+      "views": "30M",
+      "genre": "Love/Action",
+      "image": "/img/siberia.jpg",
+      "duration": "02:05:00"
+    },
+    {
+      "title": "John Wick",
+      "views": "100M",
+      "genre": "Virtual Reality",
+      "image": "/img/John_Wick.jpg",
+      "duration": "03:05:00"
+    },
+    {
+      "title": "BattleShip",
+      "views": "30M",
+      "genre": "Sci-fi",
+      "image": "/img/battleship.jpg",
+      "duration": "02:02:56"
+    },
+    {
+      "title": "Love and BasketBall",
+      "views": "1M",
+      "genre": "Love",
+      "image": "/img/love_and_basketball.jpg",
+      "duration": "02:10:34"
+    },
+    {
+      "title": "Life",
+      "views": "200k",
+      "image": "/img/jumanji.jpg",
+      "genre": "Horror",
+      "duration": "01:05:00"
+    }
+  ]
+}
