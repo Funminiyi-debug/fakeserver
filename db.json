@@ -1,6 +1,7 @@
 {
   "movies": [
     {
+      "id": 1,
       "title": "Deadly Fight",
       "views": "10M",
       "genre": "Action",
@@ -9,6 +10,7 @@
       "plot": "A young woman commits murder to keep her classmates' social media careers under her thumb. After killing a popular friend, she turns her sights on a new girl, but the girl's mother suspects the truth and will fight to protect her daughter."
     },
     {
+      "id": 2,
       "title": "Jumanji",
       "views": "3M",
       "image": "../../../assets/jumanji.jpg",
@@ -17,6 +19,7 @@
       "plot": "In Brantford, New Hampshire (1996), teenager Alex Vreeke is given the Jumanji board game by his father, who found it on a beach after it was thrown into a river by Alan Parrish and Sarah Whittle 27 years earlier. Uninterested, Alex sets the game aside. That night, it transforms into a video game cartridge which catches Alex's attention when he is awakened by the Jumanji drum beats. When he begins playing it, he disappears into the game."
     },
     {
+      "id": 3,
       "title": "Siberia",
       "views": "30M",
       "genre": "Love/Action",
@@ -25,6 +28,7 @@
       "plot": "American diamond merchant Lucas Hill (Keanu Reeves) travels to Russia to sell rare blue diamonds to gangster Boris Volkov (Pasha D.Lychnikoff). However, his contact in St. Petersburg, Pyotr (Boris Gulyarin) who had the diamonds has gone missing. Boris threatens Lucas to deliver the diamonds in 48 hours."
     },
     {
+      "id": 4,
       "title": "John Wick",
       "views": "100M",
       "genre": "Virtual Reality",
@@ -33,6 +37,7 @@
       "plot": "After John Wick loses his wife, Helen, to a terminal illness, he receives a beagle puppy named Daisy from his late wife to help him cope with his grief. Despite John's stoic demeanor, he bonds with the puppy and they spend their day driving around in his vintage 1969 Ford Mustang Mach 1. At a gas station he encounters a trio of Russian gangsters whose leader, Iosef, insists on buying his car, but John repeatedly states that it is not for sale."
     },
     {
+      "id": 5,
       "title": "BattleShip",
       "views": "30M",
       "genre": "Sci-fi",
@@ -41,6 +46,7 @@
       "plot": "In 2006, the distant Gliese planetary system is discovered to have a potentially habitable planet and a communications array is built by NASA in Hawaii to send a transmission to contact any intelligent life. Meanwhile, Alex Hopper is arrested while attempting to impress Sam Shane. His brother, naval officer Stone, forces Alex to join the U.S. Navy in order to improve his life. In 2012, Alex and Sam are in a relationship; Alex serves as a Tactical Actions Officer as a lieutenant aboard USS John Paul Jones while Stone is the commander aboard USS Sampson, but Alex is in danger of receiving a disciplinary discharge."
     },
     {
+      "id": 6,
       "title": "Love and BasketBall",
       "views": "1M",
       "genre": "Love",
@@ -49,6 +55,7 @@
       "plot": "Monica and Quincy have wanted to be professional basketball stars since they were kids. The two became childhood sweethearts in 1981, when Monica’s family moved to Los Angeles from Atlanta, moving into the house next door to Quincy’s. Quincy's father, Zeke, is the star shooting guard for the Los Angeles Clippers. Quincy is shocked that a girl could love basketball as much as he does, and can play so well. They share their first kiss on the first day of school."
     },
     {
+      "id": 7,
       "title": "Life",
       "views": "200k",
       "image": "../../../assets/Life.jpg",
